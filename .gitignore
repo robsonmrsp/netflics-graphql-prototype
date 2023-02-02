@@ -1,0 +1,27 @@
+.idea
+ .dbeaver/
+.sts4-cache
+.settings/org.eclipse.wst.common.component
+.classpath
+.project
+.dbeaver
+.settings/
+.dbeaver-data-sources.xml
+target/
+*.class
+#*.jar
+Scripts/
+src/main/webapp/out
+src/main/webapp/out/*
+src/main/webapp/javascript/main-built.js
+#src/main/webapp/uploads
+
+/logs/
+logs/basewebapp.log
+src/main/webapp/javascript/main-login-built.js
+
+/bin/
+src/main/webapp/META-INF/MANIFEST.MF
+
+*.png
+*.gif
